@@ -1,0 +1,17 @@
+.Accueil{
+    height: 620px;
+    background-color:#000059;  
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.div2 h1{
+    font-size:110px;
+    color:white;
+    margin-left:50px;
+}
+.Accueil .image1{
+    height:520px;
+    width:520px;
+    border-radius: 50%;
+}
